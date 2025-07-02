@@ -58,7 +58,22 @@ A standalone Windows application developed for **Hotel Oyster Suite** to streaml
 |:--:|:--:|:--:|
 | Daily Reports Panel | Monthly Reports Panel | |
 
+---
 
+## 🗂️ Modules Breakdown
+- **Login Panel** – Secure access for hotel staff
+- **Home Dashboard** – Quick stats on rooms, occupancy, revenue
+- **Check-In/Out Panel** – Register guest bookings and payments
+- **Room Management** – Add, edit, and track room status
+- **Reports Panel** – Generate PDF, Excel, or email reports
+- **Customer Records** – View and search guest booking history
+- **Backup & Restore** – Choose local or Google Drive backups
+
+---
+
+## 🔒 Note
+The source code is **private** due to business agreements and deployment constraints.  
+For demo access, screenshots, or architecture discussions, feel free to reach out directly.
 
 
 
