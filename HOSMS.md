@@ -1,6 +1,6 @@
 # 🏨 Hotel Oyster Suite Management System (HOSMS)
 
-A standalone Windows application developed for **Hotel Oyster Suite** to streamline daily hotel operations like check-ins, check-outs, payments, and revenue tracking. This tool is built for front-desk and administrative use, combining a responsive desktop UI with a powerful embedded database backend.
+A standalone Windows application developed for **Hotel Oyster Suite** to streamline daily hotel operations like check-ins, check-outs, payments, and revenue tracking. This tool is built for front-desk and administrative use, combining a responsive desktop UI with a powerful embedded database backend with automatic backup and restore capabilities.
 
 ---
 
@@ -10,7 +10,7 @@ A standalone Windows application developed for **Hotel Oyster Suite** to streaml
 - **MariaDB4j** – Embedded database (MySQL-compatible)
 - **JDBC** – Java Database Connectivity
 - **Batch Scripts** – For backup/restore automation
-- **Google Drive API** – For cloud backups
+- **rclone + Google Drive API** – For cloud backups
 
 ---
 
@@ -28,7 +28,7 @@ A standalone Windows application developed for **Hotel Oyster Suite** to streaml
 ## 🔐 Database Design
 - Embedded MariaDB (MySQL-based) for portability
 - Schema optimized for relational booking data
-- Automatic backup to `.sql.zip` with restore UI
+- Cloud Backup Integration with rclone + Google Drive API, with restore UI capabilities
 
 ---
 
@@ -42,7 +42,7 @@ A standalone Windows application developed for **Hotel Oyster Suite** to streaml
 
 ## 📸 Screenshots
 
-| <img src="https://cdn.imgchest.com/files/739cx6ne3r7.png" height="180"/> | <img src="https://cdn.imgchest.com/files/739cx6ne2p7.png" height="180"/> | <img src="https://cdn.imgchest.com/files/7lxcpdgeow7.png" height="180"/> |
+| <img src="https://cdn.imgchest.com/files/45xcv9kzab7.png" height="180"/> | <img src="https://cdn.imgchest.com/files/739cx6ne2p7.png" height="180"/> | <img src="https://cdn.imgchest.com/files/7lxcpdgeow7.png" height="180"/> |
 |:--:|:--:|:--:|
 | Loading Screen | Login | Dashboard |
 
@@ -58,22 +58,7 @@ A standalone Windows application developed for **Hotel Oyster Suite** to streaml
 |:--:|:--:|:--:|
 | Daily Reports Panel | Monthly Reports Panel | |
 
----
 
-## 🗂️ Modules Breakdown
-- **Login Panel** – Secure access for hotel staff
-- **Home Dashboard** – Quick stats on rooms, occupancy, revenue
-- **Check-In/Out Panel** – Register guest bookings and payments
-- **Room Management** – Add, edit, and track room status
-- **Reports Panel** – Generate PDF, Excel, or email reports
-- **Customer Records** – View and search guest booking history
-- **Backup & Restore** – Choose local or Google Drive backups
-
----
-
-## 🔒 Note
-The source code is **private** due to business agreements and deployment constraints.  
-For demo access, screenshots, or architecture discussions, feel free to reach out directly.
 
 
 
