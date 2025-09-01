@@ -18,7 +18,7 @@
 
 ---
 
-### 🔗 [BalaLights – Smart Lighting System](./projects/BALALIGHTS/BALALIGHTS.md)  
+### 🔗 [BalaLights – Smart Lighting System](./projects/balalights_portfolio/BALALIGHTS.md)  
 📌 IoT-powered smart lighting solution for home and commercial automation.  
 🖼️ ![Preview](./assets/balalights/lighting-demo.gif)
 
