@@ -14,13 +14,13 @@
 
 ### 🔗 [HOSMS – Hotel Management System](./projects/HOSMS/HOSMS.md)  
 📌 A full-featured hotel management solution with role-based access, booking management, and reporting.  
-🖼️ ![Preview](./assets/hosms/dashboard.png)
+🖼️ ![Preview](./projects/HOSMS/assets/dashboard.png)
 
 ---
 
 ### 🔗 [BalaLights – Smart Lighting System](./projects/balalights_portfolio/BALALIGHTS.md)  
-📌 IoT-powered smart lighting solution for home and commercial automation.  
-🖼️ ![Preview](./assets/balalights/lighting-demo.gif)
+📌 A professional and modern portfolio website for balalights.  
+🖼️ ![Preview](./projects/balalights_portfolio/assets/lighting-demo.gif)
 
 ---
 
@@ -34,9 +34,9 @@
 
 ## 📸 Gallery
 <p align="center">
-  <img src="./assets/hosms/flowchart.png" alt="HOSMS Flowchart" width="400"/>
+  <img src="./projects/HOSMS/assets/flowchart.png" alt="HOSMS Flowchart" width="400"/>
   &nbsp;&nbsp;
-  <img src="./assets/balalights/architecture.png" alt="BalaLights Architecture" width="400"/>
+  <img src="./projects/balalights_portfolio/assets/architecture.png" alt="BalaLights Architecture" width="400"/>
 </p>
 
 ---
