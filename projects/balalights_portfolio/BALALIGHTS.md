@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./projects/balalights_portfolio/assets/logo.png" alt="Bala Lights Logo" width="200"/>
+  <img src="./assets/logo.png" alt="Bala Lights Logo" width="200"/>
 </p>
 
 # Bala Lights Portfolio
