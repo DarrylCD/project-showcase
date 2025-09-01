@@ -42,6 +42,6 @@
 ---
 
 ## 📬 Contact
-💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin,com/darrylcdmello))  
-📧 your.email@example.com  
+💼 [LinkedIn](https://www.linkedin.com/darrylcdmello)  
+📧 darrylcdmello@gmail.com  
 🌐 [Portfolio Website](https://darrylchrisdmello.com)
